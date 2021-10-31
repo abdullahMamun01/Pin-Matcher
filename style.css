@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.generate-pin{
+    background-color: #242335;
+}
+
+.generate-btn{
+    margin-top: 140px;
+    width: 120px;
+    padding: 30px;
+    border-radius: 50%;
+    border: 8px solid #39458C;
+    background-color: #495BC3;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+/* .generate-btn:focus{
+    outline: none;
+    box-shadow: none;
+} */
+
+.type-pin{
+    height: auto;
+    background-color: #242335;
+}
+/* .pin-container{
+   display: grid;
+   grid-template-columns: 180px 180px 180px;
+} */
+.button{
+    width: 80px;
+    background-color: #455062;
+    color: whitesmoke;
+    padding: 13px 0;
+    border-radius: 8px;
+}
+.button:hover{
+    color: whitesmoke;
+}
